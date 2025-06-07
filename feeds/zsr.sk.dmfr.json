@@ -7,6 +7,10 @@
       "urls": {
         "static_current": "https://www.zsr.sk/files/pre-cestujucich/cestovny-poriadok/gtfs/gtfs.zip"
       },
+      "license": {
+        "spdx_identifier": "CC0-1.0",
+        "url": "https://data.slovensko.sk/datasety/ca4cb74c-7192-4198-b074-34acd9d295e7",
+      }
       "operators": [
         {
           "onestop_id": "o-eo0-zssk",
